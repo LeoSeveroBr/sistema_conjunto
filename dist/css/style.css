@@ -1,0 +1,12 @@
+.perfil {
+    text-align: center;
+    font-size: 20px;
+}
+
+.perfil img {
+    max-width: 300px;
+    max-height: 200px;
+    width: auto;
+    height: auto;
+    border-radius: 100%;
+}
